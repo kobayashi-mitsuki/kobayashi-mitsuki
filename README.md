@@ -1,5 +1,5 @@
 # 小林 光木
 
-## 研究者ホームページ
+## URLリンク
 
-[研究者ホームページ](https://kobayashi-mitsuki.github.io)
+- 研究者ホームページ：https://kobayashi-mitsuki.github.io
