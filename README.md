@@ -8,4 +8,4 @@
 
 ## 非公開ページ
 
-- [自分用レポジトリ案内板](https://github.com/kobayashi-mitsuki/workspace-guide#%E4%BD%9C%E6%A5%AD%E6%A1%88%E5%86%85%E6%9D%BF)
+- [自分用リポジトリ案内板](https://github.com/kobayashi-mitsuki/workspace-guide#%E4%BD%9C%E6%A5%AD%E6%A1%88%E5%86%85%E6%9D%BF)
